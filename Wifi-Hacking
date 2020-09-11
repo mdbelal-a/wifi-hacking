@@ -1,0 +1,8 @@
+$ Pkg install update
+$ Pkg install upgrade
+$ Pkg install git
+$ git clone Https://Wifi-Hacking/mdb12
+$ ls
+$ cd Wifi-Hacking
+$ ls
+$ bash wifi-hacking.sh
